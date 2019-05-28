@@ -1,4 +1,8 @@
-[![Maintenance Status][maintenance-image]](#maintenance-status)
+# Modify from upstream nuka-carousel@4.5.8
+
+Fixed: Slide will not change when update props on beforeSlide [#452](https://github.com/FormidableLabs/nuka-carousel/issues/452)
+
+Fixed: Add touch-action style only when swiping is false [#465](https://github.com/FormidableLabs/nuka-carousel/pull/465)
 
 # nuka-carousel
 
